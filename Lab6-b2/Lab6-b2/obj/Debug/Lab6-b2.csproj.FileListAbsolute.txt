@@ -1,0 +1,10 @@
+D:\DATA_FOLDER\HOC_TAP\.NET\EX\Lab6-b2\Lab6-b2\bin\Debug\Lab6-b2.exe.config
+D:\DATA_FOLDER\HOC_TAP\.NET\EX\Lab6-b2\Lab6-b2\bin\Debug\Lab6-b2.exe
+D:\DATA_FOLDER\HOC_TAP\.NET\EX\Lab6-b2\Lab6-b2\bin\Debug\Lab6-b2.pdb
+D:\DATA_FOLDER\HOC_TAP\.NET\EX\Lab6-b2\Lab6-b2\obj\Debug\Lab6-b2.csproj.AssemblyReference.cache
+D:\DATA_FOLDER\HOC_TAP\.NET\EX\Lab6-b2\Lab6-b2\obj\Debug\Lab6_b2.frmQLCB.resources
+D:\DATA_FOLDER\HOC_TAP\.NET\EX\Lab6-b2\Lab6-b2\obj\Debug\Lab6_b2.Properties.Resources.resources
+D:\DATA_FOLDER\HOC_TAP\.NET\EX\Lab6-b2\Lab6-b2\obj\Debug\Lab6-b2.csproj.GenerateResource.cache
+D:\DATA_FOLDER\HOC_TAP\.NET\EX\Lab6-b2\Lab6-b2\obj\Debug\Lab6-b2.csproj.CoreCompileInputs.cache
+D:\DATA_FOLDER\HOC_TAP\.NET\EX\Lab6-b2\Lab6-b2\obj\Debug\Lab6-b2.exe
+D:\DATA_FOLDER\HOC_TAP\.NET\EX\Lab6-b2\Lab6-b2\obj\Debug\Lab6-b2.pdb
